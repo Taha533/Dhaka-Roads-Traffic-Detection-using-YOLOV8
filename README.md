@@ -61,13 +61,13 @@ The best.pt file typically represents the weights of the model at the point wher
 
 ## Output Results:
 
-1. First image:
+1. First image:\
 ![Image 1](https://github.com/Taha533/Dhaka-Roads-Traffic-Detection-using-YOLOV8/blob/main/Output/test1.png?raw=true)
 
-2. Second Image:
+2. Second Image:\
 ![Image 1](https://github.com/Taha533/Dhaka-Roads-Traffic-Detection-using-YOLOV8/blob/main/Output/test2.png?raw=true)
 
-3. Third Image:
+3. Third Image:\
 ![Image 1](https://github.com/Taha533/Dhaka-Roads-Traffic-Detection-using-YOLOV8/blob/main/Output/test3.png?raw=true)
 
 ## Contributing
